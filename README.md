@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guzmandrade
 - 👀 I’m interested in Computer Science and Mathematics
-- 🌱 I’m currently learning Data Structures, Fucntional Programing, Modern JavaScript Applications, Modal Logic, Justification Logic.
+- 🌱 I’m currently learning Data Structures, Functional Programing, Modern JavaScript Applications, Modal Logic, Justification Logic.
 - 💞️ I’m looking to collaborate on Open Source Projects, Social Causes, 
 - 📫 How to reach me https://maaguz.com
 
